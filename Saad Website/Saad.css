@@ -91,7 +91,7 @@ header a:hover{
 }
 #showcase {
     min-height: 400px;
-    background: url('img/wb..png') no-repeat 0;
+    background: url('../Saad website/Images/wb..png') no-repeat 0;
     text-align: center;
     color: white;
 }
@@ -156,12 +156,7 @@ ul#services li {
     margin-bottom: 5px;
     background: #e6e6e6;
 }
-footer #btm {
-    display: block;
-    color: black;
-    text-decoration: none;
-    padding: 0 20px 0 20px;
-}
+
 
 footer{
     padding:20px;
